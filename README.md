@@ -33,7 +33,7 @@ Follow this link to setup local authorization to use Google Vertex AI Services: 
 3. Create a virtual environment and activate it:
    ```sh
    conda create -p myenv python==3.10 -y
-   conda activate myenv/   # On Windows use `venv\Scripts\activate`
+   conda activate myenv/   # On Windows 
    ```
 4. Install the required dependencies:
    ```sh
